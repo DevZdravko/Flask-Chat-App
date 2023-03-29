@@ -2,3 +2,5 @@ virtual/
 *.pyc
 
 info_tutorial.txt
+
+config.py
